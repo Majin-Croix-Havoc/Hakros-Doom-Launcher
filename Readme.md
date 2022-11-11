@@ -27,6 +27,7 @@ Base app, contains just the base configuration (essential mods included)
 **Reveal trailer**
 
 <iframe src="//www.youtube.com/embed/tRd8LgDQgME" allowfullscreen="" width="500" height="281" frameborder="0"></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tRd8LgDQgME/0.jpg)](https://www.youtube.com/watch?v=tRd8LgDQgME)
 
 **Demo trailer**
 
