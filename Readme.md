@@ -26,11 +26,11 @@ Base app, contains just the base configuration (essential mods included)
 
 **Reveal trailer**
 
-[https://www.youtube.com/embed/tRd8LgDQgME] (https://www.youtube.com/embed/tRd8LgDQgME)
+[https://www.youtube.com/watch?v=tRd8LgDQgME]
 
 **Demo trailer**
 
-<iframe src="//www.youtube.com/embed/uXlDntckSyI" allowfullscreen="" width="500" height="281" frameborder="0"></iframe>
+[https://www.youtube.com/watch?v=uXlDntckSyI]
 
 The app is very easy to use and includes a complete help to learn how to use it.  
 
